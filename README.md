@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahinLL
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me shahin.larhnimi@gmail.com
 
 <!---
